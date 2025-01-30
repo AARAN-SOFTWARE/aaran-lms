@@ -2,6 +2,7 @@
 
     - [Overview](/{{route}}/{{version}}/overview)
     - [Introduction](/{{route}}/{{version}}/introduction)
+    - [Installation](/{{route}}/{{version}}/installation)
 
 
 - ## Frameworks
