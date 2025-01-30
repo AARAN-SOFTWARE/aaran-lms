@@ -7,7 +7,8 @@
                 @include("larecipe::partials.logo")
 
                 <p class="inline-block font-semibold mx-1 text-grey-dark">
-                    {{ config('app.name') }}
+{{--                    {{ config('app.name') }}--}}
+                    Aaran LMS
                 </p>
             </a>
 
@@ -27,7 +28,7 @@
                 </larecipe-button>
             @endif
 
-            <larecipe-button tag="a" href="https://github.com/saleem-hadad/larecipe" target="__blank" type="black" class="mx-2 px-4">
+            <larecipe-button tag="a" href="https://github.com/AARAN-SOFTWARE/aaran-lms" target="__blank" type="black" class="mx-2 px-4">
                 <i class="fab fa-github"></i>
             </larecipe-button>
 
