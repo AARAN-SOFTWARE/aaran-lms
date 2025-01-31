@@ -12,3 +12,6 @@
     - [Tailwind Css](/{{route}}/{{version}}/framework/tailwindcss)
     - [Alpine JS](/{{route}}/{{version}}/framework/alpinejs)
     - [Markdown](/{{route}}/{{version}}/framework/markdown)
+
+- ## Projects
+  - [E-Commerce](/{{route}}/{{version}}/projects/ecommerce)
