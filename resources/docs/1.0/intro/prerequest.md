@@ -1,9 +1,8 @@
 # Pre-request 
 
 ---
-[//]: # (- [First Section]&#40;#section-1&#41;)
 - [First Section](#section-1)
-[//]: # (- [First Section]&#40;#section-1&#41;)
+- [Second Section](#section-2)
 
 ## Before installing ensure your system meets the following prerequisites:
 
@@ -44,14 +43,14 @@
 # How to Install
 
 ## Step 1: PHP
-Go to PHP.net [php.net](https://windows.php.net/download#php-8.2).
+Go to PHP.net 
+[php.net](https://windows.php.net/download#php-8.2).
 Extract the files to a new folder
 Configure php.ini
 ---
 
 <a name="section-2"></a>
-## Step 1: PHP
-Go to PHP.net [php.net](https://windows.php.net/download#php-8.2).
-Extract the files to a new folder
-Configure php.ini
+## Step 2: NODE JS
+Go to Node js [Node js](https://nodejs.org/en/download).
+Download and install
 ---
