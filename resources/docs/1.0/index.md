@@ -1,9 +1,9 @@
 - ## Get Started
 
     - [Overview](/{{route}}/{{version}}/overview)
-    - [Introduction](/{{route}}/{{version}}/introduction)
-    - [Pre Request](/{{route}}/{{version}}/prerequest)
-    - [Installation](/{{route}}/{{version}}/installation)
+    - [Introduction](/{{route}}/{{version}}/intro/introduction)
+    - [Pre Request](/{{route}}/{{version}}/intro/prerequest)
+    - [Installation](/{{route}}/{{version}}/intro/installation)
 
 
 - ## Frameworks
