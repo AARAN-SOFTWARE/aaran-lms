@@ -16,3 +16,7 @@
 - ## Projects
   - [E-Commerce](/{{route}}/{{version}}/projects/ecommerce)
   - [product](/{{route}}/{{version}}/projects/product)
+
+
+- ## Meetup
+ - [31-01-2025](/{{route}}/{{version}}/meetup/31_01_2025)

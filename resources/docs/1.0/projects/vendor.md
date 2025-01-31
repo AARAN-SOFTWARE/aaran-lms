@@ -1,0 +1,42 @@
+
+31-01-2025 - Notes
+
+1. step
+
+- Install all pre-request
+  - xampp or individual PHP, MariaDb
+  - node js
+  - IDE - phpstorm
+  - if laptop has less config use vscode
+  
+- Clone GitHub and follow the steps in https://lms.aaran.org/docs/1.0/intro/installation
+
+after completed send me screenshot of site running http://127.0.0.1:8000/docs/1.0/your_page
+
+2. step
+
+- Lear how to update
+- Learn how to commit and push
+- each commit should serialise
+
+
+3. step
+
+- Collect all information about e-commerce platform like
+- pages
+- ui components
+- code samples
+- data structure
+- blog pics
+- blog
+- modules
+
+and prepare notes in markdown file individually and post
+
+4. Step
+
+- go through laracast for tutor
+- https://laracasts.com/series/30-days-to-learn-laravel-11
+
+-  https://laracasts.com/series/livewire-3-from-scratch/episodes/1
+
