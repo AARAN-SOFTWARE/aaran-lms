@@ -90,7 +90,7 @@ npm install alpinejs
 then add this into app.js
 
 ```js
-import Alpine from 'alpinejs'
+import Alpine from 'resources/docs/1.0/framework/alpinejs'
 
 window.Alpine = Alpine
 

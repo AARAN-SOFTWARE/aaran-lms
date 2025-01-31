@@ -7,7 +7,8 @@
 
 
 - ## Frameworks
-    - [Laravel](/{{route}}/{{version}}/laravel)
-    - [Livewire](/{{route}}/{{version}}/livewire)
-    - [Tailwind Css](/{{route}}/{{version}}/tailwindcss)
-    - [Alpine JS](/{{route}}/{{version}}/alpinejs)
+    - [Laravel](/{{route}}/{{version}}/framework/laravel)
+    - [Livewire](/{{route}}/{{version}}/framework/livewire)
+    - [Tailwind Css](/{{route}}/{{version}}/framework/tailwindcss)
+    - [Alpine JS](/{{route}}/{{version}}/framework/alpinejs)
+    - [Markdown](/{{route}}/{{version}}/framework/markdown)
