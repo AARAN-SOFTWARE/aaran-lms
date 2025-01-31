@@ -1,7 +1,5 @@
 # Markdown Cheat Sheet
 
-
-# Overview
 &nbsp;&nbsp;&nbsp;&nbsp;Create sophisticated formatting for your prose and code on with simple syntax.
 
 ### Heading
