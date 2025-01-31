@@ -2,7 +2,11 @@
 
 ---
 
-Welcome to <span style="color:DodgerBlue">**Aaran Learning Management System (LMS)** !</span>
+
+Welcome to&nbsp; <span style="font-weight: 700; font-size: 18px; background: linear-gradient(135deg, #FF85C0, #A2A4FF, #D6A8FF); -webkit-background-clip: text; color: transparent; text-transform: capitalize; font-family: 'Arial', sans-serif; letter-spacing: 1px; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);">
+Aaran Learning Management System
+</span>
+
 
 ---
 
