@@ -26,7 +26,7 @@ This is what customers see and interact with. It needs to be user-friendly, resp
 ---
 
 ![structure](/docs/images/project/structure.png)
-![structure](/docs/images/project/product.jpg)
+
 
 
 ### **Backend (Admin Panel)**

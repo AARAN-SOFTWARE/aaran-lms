@@ -15,3 +15,4 @@
 
 - ## Projects
   - [E-Commerce](/{{route}}/{{version}}/projects/ecommerce)
+  - [product](/{{route}}/{{version}}/projects/product)
