@@ -236,7 +236,7 @@ Some Markdown parsers support text highlighting.
 ```
 <span style="color:DodgerBlue; font-weight: 600;"> Output:: </span>
 
-![HighLight](/docs/images/markdown/md_highlight.png)
+![structure](/docs/images/project/structure.png)
 
 ### **3.6 Escaping Characters**
 Use `\` to prevent Markdown from interpreting special characters.
