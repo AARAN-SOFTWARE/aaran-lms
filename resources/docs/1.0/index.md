@@ -20,6 +20,7 @@
   - [E-Commerce](/{{route}}/{{version}}/projects/ecommerce)
   - [product](/{{route}}/{{version}}/projects/product)
   - [Challenges](/{{route}}/{{version}}/projects/challenges)
+  - [Vendor](/{{route}}/{{version}}/projects/vendor)
 
 
 - ## Meetup
