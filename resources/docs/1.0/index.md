@@ -15,10 +15,11 @@
     - [Markdown](/{{route}}/{{version}}/framework/markdown)
     - [Testing](/{{route}}/{{version}}/framework/testing)
 
-- ## Projects
+- ## E-Commerce
   - [Introduction](/{{route}}/{{version}}/projects/introduction)
   - [E-Commerce](/{{route}}/{{version}}/projects/ecommerce)
   - [product](/{{route}}/{{version}}/projects/product)
+  - [Challenges](/{{route}}/{{version}}/projects/challenges)
 
 
 - ## Meetup
