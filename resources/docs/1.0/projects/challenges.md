@@ -7,7 +7,7 @@
 [//]: # (## First Section)
 
 
-![Vendor](/docs/images/project/vendor_management.jpg)
+![Vendor](/docs/images/project/challange.jpg)
 
 
 **1. Vendor Management**
