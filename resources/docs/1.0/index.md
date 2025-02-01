@@ -22,6 +22,7 @@
   - [product](/{{route}}/{{version}}/projects/product)
   - [Challenges](/{{route}}/{{version}}/projects/challenges)
   - [Vendor](/{{route}}/{{version}}/projects/vendor)
+  - [Blogs](/{{route}}/{{version}}/projects/blog)
 
 
 - ## Meetup
