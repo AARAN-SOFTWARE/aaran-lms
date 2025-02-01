@@ -2,7 +2,7 @@
 
 ---
 
-- [Platform Structure](#section-1)
+[//]: # (- [Platform Structure]&#40;#section-1&#41;)
 
 <a name="section-1"></a>
 
