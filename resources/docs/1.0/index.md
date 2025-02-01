@@ -17,6 +17,7 @@
 
 - ## E-Commerce
   - [Introduction](/{{route}}/{{version}}/projects/introduction)
+  - [Features](/{{route}}/{{version}}/projects/features)
   - [E-Commerce](/{{route}}/{{version}}/projects/ecommerce)
   - [product](/{{route}}/{{version}}/projects/product)
   - [Challenges](/{{route}}/{{version}}/projects/challenges)
