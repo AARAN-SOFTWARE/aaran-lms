@@ -23,7 +23,8 @@
   - [product](/{{route}}/{{version}}/projects/product)
   - [Challenges](/{{route}}/{{version}}/projects/challenges)
   - [Vendor](/{{route}}/{{version}}/projects/vendor)
-
+  - [Blogs](/{{route}}/{{version}}/projects/blog)
+  - [Contact](/{{route}}/{{version}}/projects/contact)
 
 - ## Meetup
  - [31-01-2025](/{{route}}/{{version}}/meetup/31_01_2025)
