@@ -3,7 +3,6 @@
 ---
 
 - [Platform Structure](#section-1)
-- [Roles and Permissions](#section-2)
 
 <a name="section-1"></a>
 
