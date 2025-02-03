@@ -69,7 +69,6 @@ This section contains business-specific settings related to payments and shippin
 
 **Example Usage**:
 - Managing payment methods and types of receipts (e.g., **UPI receipts** for online payments).
-- Defining different **shipping methods** (e.g., **Pick-up** or **Home Delivery**) for customer orders.
 
 ---
 
