@@ -25,7 +25,7 @@
   - [Vendor](/{{route}}/{{version}}/projects/vendor)
   - [Blogs](/{{route}}/{{version}}/projects/blog)
   - [Contact](/{{route}}/{{version}}/projects/contact)
-  - [Contact Form](/{{route}}/{{version}}/projects/contactform)
+  - [Customer](/{{route}}/{{version}}/projects/Customer_page)
 
 - ## Billing
     - [Introduction](/{{route}}/{{version}}/billing/introduction)
