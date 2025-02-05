@@ -1,4 +1,4 @@
-## Customers Page Requirements for a Multi-Vendor E-Commerce Website
+# Customers Page Requirements for a Multi-Vendor E-Commerce Website
 
 When working on the Customers Page for a multi-vendor e-commerce website, it’s essential to focus on features and functionalities that enhance the user experience, streamline customer management, and ensure seamless interactions. Below are the key requirements and features you should consider for the Customers Page:
 
