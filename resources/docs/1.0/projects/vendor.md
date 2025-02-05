@@ -91,10 +91,199 @@ Before finalizing a vendor, you can screen their background through a VMS. This 
 
 As you can see, a good VMS lets you keep every aspect of the vendor management process in check, from the initial search for suitable candidates to the actual work on projects. This way, it helps you find the best vendors and establish productive relationships with them, which is key to better performance and high-quality work results.
 
+<br>
 
+# Vendor Registration Requirements
+<br>
+- **Vendor Full Name**
+- **Phone Number**
+- **Email Address**
+- **GSTIN / PAN Number**
+- **Business Name**
+- **Business Address**
+- **Government-Issued ID Proof** (Aadhar, PAN, etc.)
+- **Shop Details (Pickup Details)**
 
+<br>
 
+# Payment Options (For E-commerce Payouts to Vendor)
+<br>
+- **Bank Transfer**
+    - Bank Name
+    - Account Number
+    - IFSC Code
+- **UPI Payment**
+    - UPI ID
+- **Wallet Payment**
+    - Wallet Provider Name
+    - Registered Mobile Number
+<br><br>
 
+# New Product Addition
 
+### Product Name
+- Enter the product name here.
 
+### Product Image
+- Upload the product image here.
 
+### Price
+- Specify the price of the product.
+
+### Product Category
+- Choose the category the product belongs to.
+
+### Number of Stocks Available
+- Enter the available stock quantity.
+
+### Product Description
+- Provide a detailed description of the product.
+
+### Brand Name (if applicable)
+- Enter the brand name (if relevant).
+
+### SKU (Stock Keeping Unit)
+- Enter the SKU for the product.
+
+<br>
+
+# Product Management (Listing Page)
+<br>
+- Display uploaded products with details.
+- Show product image, name, price, stock, and category.
+- Provide an **Edit Option** for updating:
+    - **Price**
+    - **Stock Availability**
+    - **Product Description**
+- Allow product removal if needed.
+
+<br>
+
+# Order Management (Order Page)
+<br>
+- Display all orders placed by users.
+- Show order details:
+    - **Order ID**
+    - **Product Name**
+    - **Quantity**
+    - **Price**
+    - **Payment Method** (COD or Online Payment)
+    - **Invoice** (Downloadable)
+    - **Shipping Date**
+    - **Order Status** (Pending, Dispatched, Completed)
+- Allow vendors to update order status.
+- Show customer shipping details for delivery.
+
+<br>
+
+# Product Promotion Details
+
+### Promotion Type
+- **PPC (Pay-Per-Click)** or **Sponsored Product for a Number of Days** (Choose one)
+
+### Product to be Promoted
+- Select the product to be promoted here.
+
+### Promotion Duration (for Sponsored Product)
+- Start Date: `YYYY-MM-DD`
+- End Date: `YYYY-MM-DD`
+- Total Duration (in days): Specify the number of days.
+
+### Budget for PPC
+- Set the daily or total budget for PPC campaign.
+
+### Cost Per Click (PPC)
+- Define the cost per click for the promotion.
+
+### Target Audience
+- Specify the target audience (e.g., demographics, interests, etc.)
+
+### Keywords (for PPC)
+- List the keywords relevant to the product.
+
+### Promotion Description
+- Provide a brief description of the promotion and any special offers.
+
+### Campaign Goal
+- Define the goal of the promotion (e.g., increase sales, visibility, etc.)
+
+### Tracking and Metrics
+- Specify how the performance of the promotion will be tracked (e.g., clicks, conversions, ROI).
+
+<br>
+
+# Vendor Helpline Page
+
+### Welcome to the Vendor Helpline
+
+We are here to assist you with any issues or inquiries you have regarding your products, account, and sales. Below are the resources and ways to get in touch with us.
+
+---
+
+### 1. **Common Issues & Solutions**
+
+#### Product Listing Issues
+- **Problem**: Product not appearing on the site
+- **Solution**: Ensure all required fields (Product Name, Description, Image, Price, Stock) are filled out. If the issue persists, contact support.
+
+#### Payment Issues
+- **Problem**: Payment not received
+- **Solution**: Check your payment details and transaction history. If you still face issues, reach out to our support team.
+
+#### Stock Management
+- **Problem**: Unable to update stock levels
+- **Solution**: Make sure you're logged in and have the correct permissions. For further help, contact support.
+
+---
+
+### 2. **Contact Support**
+
+- **Email Support**: [support@yourcompany.com](mailto:support@yourcompany.com)
+- **Phone Support**: Call us at `+123-456-7890`
+- **Live Chat**: Available 24/7. Click on the chat icon in the bottom right to start.
+
+---
+
+### 3. **Vendor FAQs**
+
+- **How do I list a product?**
+    - Follow our step-by-step guide on how to list your products, including images, pricing, and descriptions.
+
+- **How can I track my sales?**
+    - Access your vendor dashboard to monitor sales performance, inventory, and order status.
+
+- **What is the commission rate?**
+    - Our platform takes a [X%] commission on each sale. For more details, refer to our vendor agreement.
+
+---
+
+### 4. **Vendor Portal**
+
+- **Login to Vendor Dashboard**: [Vendor Portal](http://yourwebsite.com/vendor-login)
+- Manage your products, orders, and view reports.
+
+---
+
+### 5. **Emergency Support**
+
+If you are facing a critical issue that requires urgent attention, please reach out to us via our **Emergency Support Line**:
+- **Emergency Phone**: `+123-456-7891`
+
+---
+
+### 6. **Operating Hours**
+
+- **Support Hours**: Monday to Friday, 9 AM - 6 PM
+- **Emergency Support**: Available 24/7
+
+---
+
+### 7. **Additional Resources**
+
+- [Vendor Help Center](http://yourwebsite.com/vendor-help-center)
+- [Vendor Terms and Conditions](http://yourwebsite.com/vendor-terms)
+- [Billing Information](http://yourwebsite.com/vendor-billing)
+
+---
+
+We’re here to help you succeed! Feel free to reach out if you need assistance.
