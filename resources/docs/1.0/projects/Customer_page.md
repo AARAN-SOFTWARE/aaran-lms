@@ -3,6 +3,7 @@
 When working on the Customers Page for a multi-vendor e-commerce website, it’s essential to focus on features and functionalities that enhance the user experience, streamline customer management, and ensure seamless interactions. Below are the key requirements and features you should consider for the Customers Page:
 
 ---
+### Inttoduction:
 
 ### 1. Customer Profile Management
 - **User Registration & Login:** Allow customers to create accounts using email, phone, or social media logins.
