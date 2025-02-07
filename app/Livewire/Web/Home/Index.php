@@ -7,7 +7,7 @@ use Livewire\Component;
 
 class Index extends Component
 {
-    #[Layout('layouts.app')]
+    #[Layout('layouts.web')]
     public function render()
     {
         return view('livewire.web.home.index');

@@ -1,3 +1,3 @@
 <div>
-    {{-- The Master doesn't talk, he acts. --}}
+    {{-- In work, do what you enjoy. --}}
 </div>

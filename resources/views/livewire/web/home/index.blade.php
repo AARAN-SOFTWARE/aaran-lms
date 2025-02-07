@@ -1,3 +1,3 @@
 <div>
-     Knowing others is intelligence; knowing yourself is true wisdom.
+    {{-- The whole world belongs to you. --}}
 </div>
