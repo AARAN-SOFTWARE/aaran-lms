@@ -1,3 +1,5 @@
 <div>
-    {{-- The whole world belongs to you. --}}
+    <x-slider.new />
+{{--    <x-web.home-new.features/>--}}
+    <x-web.home-new.footer/>
 </div>

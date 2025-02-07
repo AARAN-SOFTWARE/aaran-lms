@@ -14,6 +14,7 @@
         <!-- Scripts -->
         @vite(['resources/css/app.css', 'resources/js/app.js'])
 
+        @stack('style')
         <!-- Styles -->
         @livewireStyles
     </head>
@@ -21,6 +22,7 @@
         <x-banner />
 
         <div class="min-h-screen bg-gray-100">
+            <x-menu.web.top-menu/>
 
             <!-- Page Content -->
             <main>
