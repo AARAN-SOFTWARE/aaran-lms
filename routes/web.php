@@ -2,9 +2,15 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return view('welcome');
-});
+
+// route in open - before login
+
+Route::get('/',App\Livewire\Web\Home\Index::class)->name('home');
+Route::get('/contacts',App\Livewire\Web\Contact\Index::class)->name('contacts');
+
+
+
+// route in Secured - after login
 
 Route::middleware([
     'auth:sanctum',
@@ -15,6 +21,3 @@ Route::middleware([
         return view('dashboard');
     })->name('dashboard');
 });
-
-
-
