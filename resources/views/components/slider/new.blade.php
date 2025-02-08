@@ -58,9 +58,9 @@
         <div class="slide backdrop-brightness-105" style="background-image: url('/../../../images/home/lms_bg_1.webp');">
             <div
                 class="w-7/12 mx-auto text-white text-center font-semibold flex-col flex gap-y-5 fade-in p-5 justify-center items-center rounded-md">
-                <div class="text-3xl font-bold fade-in text-lime-400">Best Online GST Billing Software in India</div>
-                <div class="text-xl text-orange-400 fade-in drop-shadow-[0px_4px_34px_rgba(0,0,0,0.06)]">Create, manage & track
-                    invoices, e-invoices, and eWay bills, 100% safe, reliable, and secure...
+                <div class="text-3xl font-bold fade-in text-lime-400">Learn, grow, succeed</div>
+                <div class="text-xl text-orange-400 fade-in drop-shadow-[0px_4px_34px_rgba(0,0,0,0.06)]">
+                    Education helps people learn, grow, and succeed in life ...
                 </div>
             </div>
         </div>
@@ -71,9 +71,9 @@
             <div class="flex gap-x-10 items-end justify-start relative">
                 <div
                     class="w-9/12 px-32 text-white text-center font-semibold flex-col flex gap-y-5 fade-in p-5 rounded-md justify-center">
-                    <div class="text-5xl font-bold fade-in text-black">Best Online GST Billing Software in India</div>
-                    <div class="text-xl text-purple-600 fade-in drop-shadow-[0px_4px_34px_rgba(0,0,0,0.06)]">Create, manage & track
-                        invoices, e-invoices, and eWay bills, 100% safe, reliable, and secure...
+                    <div class="text-5xl font-bold fade-in text-black">Think outside the textbook</div>
+                    <div class="text-xl text-purple-600 fade-in drop-shadow-[0px_4px_34px_rgba(0,0,0,0.06)]">
+                        A slogan for a digital learning platform that encourages students to think beyond the traditional textbook ...
                     </div>
                 </div>
                 <div class="">
