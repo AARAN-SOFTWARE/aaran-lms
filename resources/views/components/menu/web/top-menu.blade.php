@@ -20,6 +20,14 @@
             <a href="{{route('home')}}"
                class=" underline-offset-2  focus:outline-none focus:underline dark:text-white dark:hover:text-white "
                aria-current="page" wire:navigate>Home</a></li>
+
+
+        <li class="hover:tracking-wide hover:font-bold hover:text-black hover:underline duration-300 transition-all ease-out">
+            <a href="/docs/1.0/"
+               class="  underline-offset-2 focus:outline-none focus:underline dark:text-neutral-300 dark:hover:text-white"
+               wire:navigate>Docs</a>
+        </li>
+
         <li class="hover:tracking-wide hover:font-bold hover:text-black hover:underline duration-300 transition-all ease-out">
             <a href="{{route('abouts')}}"
                class="  underline-offset-2 focus:outline-none focus:underline dark:text-neutral-300 dark:hover:text-white"
@@ -94,6 +102,12 @@
                             class="w-full text-sm font-bold text-neutral-600 focus:underline dark:text-neutral-300 "
                             wire:navigate
             >Home</a></li>
+
+        <li class="py-2"><a href="/docs/1.0/"
+                            class="w-full text-sm font-medium text-neutral-600 focus:underline dark:text-neutral-300"
+                            wire:navigate>About</a>
+        </li>
+
         <li class="py-2"><a href="{{route('abouts')}}"
                             class="w-full text-sm font-medium text-neutral-600 focus:underline dark:text-neutral-300"
                             wire:navigate>About</a>

@@ -12,7 +12,6 @@ Route::get('/services',App\Livewire\Web\Contact\Index::class)->name('services');
 Route::get('/contacts',App\Livewire\Web\Contact\Index::class)->name('contacts');
 
 
-
 // route in Secured - after login
 
 Route::middleware([
