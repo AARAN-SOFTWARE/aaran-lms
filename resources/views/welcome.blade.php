@@ -21,6 +21,7 @@
 
             </style>
         @endif
+        @livewireStyles
     </head>
     <body class="font-sans antialiased">
         <div class="bg-gray-50 text-black/50">
@@ -32,7 +33,6 @@
 
                             <a href="{{ url('/docs/1.0' . config('app.version')) }}" class="btn">
                                 Docs 📖
-
                             </a>
                         </div>
                         @if (Route::has('login'))
@@ -179,5 +179,6 @@
                 </div>
             </div>
         </div>
+        @livewireScripts
     </body>
 </html>
