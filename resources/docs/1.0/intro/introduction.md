@@ -5,64 +5,28 @@
 - [First Section](#section-1)
 
 <a name="section-1"></a>
-# Learning Path for Laravel Preparation
 
----
-Before diving into Laravel, it's essential to build a strong foundation by first learning the basics of `HTML`, `CSS`, and `JavaScript`. These are the core technologies of web development and will help you understand how web pages are structured, styled, and made interactive. Once you're comfortable with these, the next step is to learn `PHP basics`, as Laravel is a PHP framework. After that, learn how to use `GitHub`, including creating repositories, making contributions, handling pull requests, merging changes, pushing code, and managing version control. Mastering these skills will prepare you for collaborative development and make your transition into Laravel much smoother.
+## `Laravel Project Setup Guide`
 
-Here’s a more detailed breakdown:
+<img src="/docs/images/framework/laravel.jpg" alt="Example 2" width="600">
 
----
-<larecipe-progress type="success" :value="100"></larecipe-progress>
 
-## 1. Learn Basic HTML, CSS, and JavaScript
+- This guide will walk you through setting up and working with a **`Laravel project`**. Whether you're a developer installing the project for the first time or an administrator configuring the system, this documentation will help you every step of the way.
 
-### HTML
-- Learn how to structure web content using tags, elements, and attributes.
+- Built with **`Laravel`**, this documentation provides a step-by-step guide on how to install and set up a Laravel project. It covers the common installation methods, best practices, and essential configurations to ensure a smooth development experience.
 
-### CSS
-- Understand how to style web pages, including layouts (Flexbox, Grid) and responsive design principles.
+### `Documentation Structure`
 
-### JavaScript
-- Get familiar with adding interactivity, handling events, and manipulating the DOM.
+To keep things clear, this documentation is divided into key sections:
 
----
-<larecipe-progress type="success" :value="100"></larecipe-progress>
+- **`Prerequisites`** – Before installing, make sure your system meets the necessary requirements. This section outlines the essential tools and software you'll need for a smooth setup.
+- **`Installation`** – Once everything is set up, you’ll learn how to install the Laravel project from GitHub and get it running.
 
-## 2. Learn PHP Basics
+By following this guide, you'll be able to **`install, configure, and manage`** the Laravel project with ease.
 
-### Syntax and Fundamentals
-- Learn PHP syntax, variables, data types, operators, and control structures (if-else, loops, switch).
+### `Next Steps`
+Let's start by making sure your system is ready in the **Pre Request** section. 🚀  
 
-### Functions
-- Create and use functions, including built-in PHP functions.
 
-### Forms and Data Handling
-- Handle form data using `$_GET` and `$_POST`, and validate user input.
 
-### Working with Databases
-- Learn the basics of connecting to a database (e.g., MySQL) and performing simple CRUD operations.
 
----
-<larecipe-progress type="success" :value="100"></larecipe-progress>
-## 3. Learn GitHub and Version Control
-
-### Git Basics
-- Learn how to initialize a repository, stage changes, commit, and view commit history.
-
-### Branching and Merging
-- Practice creating branches, switching between them, and merging changes.
-
-### Pull Requests
-- Understand how to propose changes, review code, and collaborate with others.
-
-### Push and Pull
-- Learn how to upload your code to a remote repository (push) and download updates (pull).
-
-### Version Control
-- Grasp the importance of tracking changes, resolving conflicts, and maintaining a clean commit history.
-
----
-<larecipe-progress type="success" :value="100"></larecipe-progress>
-
-By following this structured approach, you'll not only gain a solid understanding of web development fundamentals but also develop the skills necessary to work effectively in a team environment. This will make your journey into Laravel—a powerful PHP framework—much more manageable and productive. 🚀

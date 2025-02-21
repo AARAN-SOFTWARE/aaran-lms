@@ -6,17 +6,17 @@
 
 # Getting Started with Laravel
 
-## Introduction
+## `Introduction`
 
-<img src="/docs/images/alpine/new.jpg" alt="Example 2" width="700">
+<img src="/docs/images/framework/laravel2.png" alt="Example 2" width="700">
 
 After mastering the basics of `HTML, CSS, JavaScript and PHP`, it's time to dive into `Laravel`, one of the most powerful and widely used PHP frameworks for web development. Laravel makes it easier to build robust, scalable, and secure web applications by providing built-in functionalities like authentication, routing, Eloquent ORM, and more.
 
-## Learning Path: 30 Days to Learn Laravel
+## `Learning Path: 30 Days to Learn Laravel`
 
 To get a structured and effective start with Laravel, follow the **"30 Days to Learn Laravel"** course available on **Laracasts**. This course is designed for beginners and covers essential concepts step by step, making it an excellent resource for anyone new to Laravel.
 
-## Why Choose Laracasts?
+## `Why Choose Laracasts?`
 
 - **Free Course:** The "30 Days to Learn Laravel" course is completely free to access.
 - **Comprehensive Learning:** The course follows a well-structured curriculum covering all important Laravel features.
@@ -24,7 +24,7 @@ To get a structured and effective start with Laravel, follow the **"30 Days to L
 - **Expert Guidance:** The course is created by Jeffrey Way, an experienced Laravel developer and instructor.
 - **Community Support:** Engage with other learners and get answers to your questions.
 
-## Steps to Follow
+## `Steps to Follow`
 
 1. **Visit Laracasts** – Go to this course [Laracasts](https://laracasts.com/series/30-days-to-learn-laravel-11).
 2. **Create an Account** – Sign up if you don’t already have an account. [Optional]
@@ -33,7 +33,7 @@ To get a structured and effective start with Laravel, follow the **"30 Days to L
 5. **Read Laravel Documentation** – Refer to [Laravel Docs](https://laravel.com/docs) for deeper understanding.
 6. **Join Laravel Community** – Engage in forums and discussions to clarify doubts and learn best practices.
 
-## What You'll Learn
+## `What You'll Learn`
 
 - **Laravel Installation & Setup**
 - **Routing & Controllers**
@@ -43,7 +43,7 @@ To get a structured and effective start with Laravel, follow the **"30 Days to L
 - **Testing**
 - **Deployment & Optimization**
 
-## Conclusion
+## `Conclusion`
 
 By following this structured approach, you'll gain a **strong foundation in Laravel** and be able to develop dynamic web applications efficiently. Stay consistent, practice regularly, and explore additional resources to enhance your skills further. Happy coding! 🚀
 
