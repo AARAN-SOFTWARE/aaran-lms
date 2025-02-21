@@ -37,27 +37,49 @@
  - [Features](/{{route}}/{{version}}/billing/features)
 
 
- - [Modules](/{{route}}/{{version}}/billing/modules)
 
 
-    - [📥 Entry](/{{route}}/{{version}}/billing/modules/entries)
+<div id="module-toggle" style="cursor: pointer; font-weight: 500; color: gray; padding-left: 1.8rem; padding-top: 0.5rem;">
+   Modules ▼
+</div>
 
 
-    - [💳 Transaction](/{{route}}/{{version}}/billing/modules/transactions)
+<div id="module-list" style="display: none; margin-left: 20px;">
+  <ul style="list-style: none;  padding-top: 1rem; ">
+    <li style=" padding-left: 0.2rem; padding-bottom: 0.2rem; margin-bottom: 8px;"><a style="color: gray;" href="/docs/1.0/billing/modules/entries">📥 Entry</a></li>
+    <li style="padding-left: 0.2rem;  padding-bottom: 0.2rem; margin-bottom: 8px;"><a style="color: gray;" href="/docs/1.0/billing/modules/transactions">💳 Transaction</a></li>
+    <li style="padding-left: 0.2rem;  padding-bottom: 0.2rem; margin-bottom: 8px;"><a style="color: gray;" href="/docs/1.0/billing/modules/master">📊 Master</a></li>
+    <li style="padding-left: 0.2rem;  padding-bottom: 0.2rem; margin-bottom: 8px;"><a style="color: gray;" href="/docs/1.0/billing/modules/common">🌐 Common</a></li>
+    <li style="padding-left: 0.2rem;  padding-bottom: 0.2rem; margin-bottom: 8px;"><a style="color: gray;" href="/docs/1.0/billing/modules/task">📝 Task</a></li>
 
+  </ul>
+</div>
 
-    - [📊 Master](/{{route}}/{{version}}/billing/modules/master)
-
-
-    - [🌐 Common](/{{route}}/{{version}}/billing/modules/common)
-
-
-    - [📝 Task](/{{route}}/{{version}}/billing/modules/task)
 
 
 
 - ## Meetup
  - [31-01-2025](/{{route}}/{{version}}/meetup/31_01_2025)
+
+
+<style>
+  #module-toggle:hover {
+      text-decoration: underline;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+      const moduleToggle = document.getElementById("module-toggle");
+      const moduleList = document.getElementById("module-list");
+
+      moduleToggle.addEventListener("click", function () {
+          const isHidden = moduleList.style.display === "none";
+          moduleList.style.display = isHidden ? "block" : "none";
+          moduleToggle.innerHTML = isHidden ? " Modules ▲" : " Modules ▼";
+      });
+  });
+</script>
 
 
 
