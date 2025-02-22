@@ -1,7 +1,7 @@
 # Release Notes
 
 ---
-Release notes are **documents** that provide **updates, improvements, and bug fixes** in a new software version.
+Release nnnn notes are **documents** that provide **updates, improvements, and bug fixes** in a new software version.
 
 #### **Key Components of Release Notes:**
 1. **Version Number** – Identifies the release (e.g., v1.2.0).
