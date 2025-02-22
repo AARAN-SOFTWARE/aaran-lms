@@ -5,6 +5,7 @@ namespace Aaran\Docs\Providers;
 use Illuminate\Support\ServiceProvider;
 use Livewire\Livewire;
 use Aaran\Web\Livewire\Dashboard;
+use Aaran\Docs\Livewire\Prologue;
 
 class DocsServiceProvider extends ServiceProvider
 {
@@ -25,7 +26,6 @@ class DocsServiceProvider extends ServiceProvider
         Livewire::component('docs::index', Dashboard\Index::class);
 
         Livewire::component('docs::prologue.release-notes', Prologue\ReleaseNotes::class);
-        Livewire::component('docs::index', Dashboard\Index::class);
     }
 
     protected function loadConfigs(): void

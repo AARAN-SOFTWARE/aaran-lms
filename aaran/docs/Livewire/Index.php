@@ -1,6 +1,6 @@
 <?php
 
-namespace Aaran\Docs\Livewire\Docs;
+namespace Aaran\Docs\Livewire;
 
 use Illuminate\Support\Str;
 use Livewire\Attributes\Layout;
