@@ -52,7 +52,7 @@
 <section class="relative w-full h-screen overflow-hidden">
     <div id="slider" class="slider-container font-lex">
         <!-- Slide 1 -->
-        <div class="slide brightness-90" style="background-image: url('/../../../images/slider/home/bg_1.webp');">
+        <div class="slide brightness-90" style="background-image: url('/../../../images/slider/home/lms_bg_1.webp');">
             <div
                 class="w-7/12 mx-auto py-16 text-white text-center font-semibold flex-col flex gap-y-5 fade-in p-5 justify-center items-center rounded-md">
                 {{--                <div class="text-4xl  fade-in">We Ensure</div>--}}
@@ -64,7 +64,7 @@
             </div>
         </div>
         <!-- Slide 2 -->
-        <div class="slide brightness-90" style="background-image: url('/../../../images/slider/home/bg_6.webp');">
+        <div class="slide brightness-90" style="background-image: url('/../../../images/slider/home/lms_bg_2.webp');">
             <div class="flex gap-x-10 items-end justify-start relative">
                 <div
                     class="w-9/12 px-32 py-16 text-white text-center font-semibold flex-col flex gap-y-5 fade-in p-5 rounded-md justify-center">
@@ -81,7 +81,7 @@
             </div>
         </div>
         <!-- Slide 3 -->
-        <div class="slide brightness-90" style="background-image: url('/../../../images/slider/home/bg_7.webp');">
+        <div class="slide brightness-90" style="background-image: url('/../../../images/slider/home/bg_1.webp');">
             <div class="flex gap-x-10 items-center justify-start relative">
                 <div
                     class="w-8/12 mx-16 p-16 text-white text-center font-semibold flex-col flex gap-y-5 fade-in p-5 rounded-md">
@@ -98,7 +98,7 @@
                 </div>
             </div>
         </div>
-        <div class="slide brightness-90" style="background-image: url('/../../../images/slider/home/bg_2.webp');">
+        <div class="slide brightness-90" style="background-image: url('/../../../images/slider/home/bg_1.webp');">
             <div class="flex gap-x-10 items-center justify-start relative">
                 <div
                     class="w-8/12 mx-16 p-16 text-white text-center font-semibold flex-col flex gap-y-5 fade-in p-5 rounded-md">
@@ -115,7 +115,7 @@
                 </div>
             </div>
         </div>
-        <div class="slide brightness-90" style="background-image: url('/../../../images/slider/home/bg_4.webp');">
+        <div class="slide brightness-90" style="background-image: url('/../../../images/slider/home/bg_1.webp');">
             <div class="flex gap-x-10 items-center justify-start relative">
                 <div
                     class="w-8/12 mx-16 p-16 text-white text-center font-semibold flex-col flex gap-y-5 fade-in p-5 rounded-md">
@@ -131,7 +131,7 @@
                 </div>
             </div>
         </div>
-        <div class="slide brightness-90" style="background-image: url('/../../../images/slider/home/bg_3.webp');">
+        <div class="slide brightness-90" style="background-image: url('/../../../images/slider/home/bg_1.webp');">
             <div class="flex gap-x-10 items-center justify-start relative">
                 <div
                     class="w-8/12 mx-16 p-16 text-white text-center font-semibold flex-col flex gap-y-5 fade-in p-5 rounded-md">
