@@ -1,8 +1,6 @@
 # Release Notes
 
 ---
-
-#### **What are Release Notes?**
 Release notes are **documents** that provide **updates, improvements, and bug fixes** in a new software version.
 
 #### **Key Components of Release Notes:**
