@@ -19,13 +19,11 @@
         <li class="hover:tracking-wide hover:font-bold hover:text-black hover:underline duration-300 transition-all ease-out">
             <a href="{{route('home')}}"
                class=" underline-offset-2  focus:outline-none focus:underline dark:text-white dark:hover:text-white "
-               aria-current="page" wire:navigate>Home</a></li>
-
+               aria-current="page">Home</a></li>
 
         <li class="hover:tracking-wide hover:font-bold hover:text-black hover:underline duration-300 transition-all ease-out">
-            <a href="/docs/1.0"
-               class="  underline-offset-2 focus:outline-none focus:underline dark:text-neutral-300 dark:hover:text-white"
-               wire:navigate>Docs</a>
+            <a href="{{ url('/docs/1.0' . config('app.version')) }}"
+               class="underline-offset-2 focus:outline-none focus:underline dark:text-neutral-300 dark:hover:text-white">Docs</a>
         </li>
 
         <li class="hover:tracking-wide hover:font-bold hover:text-black hover:underline duration-300 transition-all ease-out">
