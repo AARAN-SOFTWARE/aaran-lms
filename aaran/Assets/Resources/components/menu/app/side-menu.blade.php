@@ -28,62 +28,9 @@
             x-data="{selected:null}">
 
 
-            {{--            @if(Aaran\Aadmin\Src\Customise::hasEntries())--}}
-            {{--                <x-menu.sub.entries/>--}}
-            {{--            @endif--}}
-
-            {{--            @if(Aaran\Aadmin\Src\Customise::hasTransaction())--}}
-            {{--                <x-menu.sub.transaction/>--}}
-
-            {{--            @endif--}}
-
-            {{--            @if(Aaran\Aadmin\Src\Customise::hasMaster())--}}
-            {{--                <x-menu.sub.master/>--}}
-            {{--            @endif--}}
-
-            @if(\Aaran\Assets\Features\Customise::hasCommon())
-                <x-aaran-ui::menu.app.sub.common/>
-            @endif
-
-            @if(\Aaran\Assets\Features\Customise::hasMAster())
-                <x-aaran-ui::menu.app.sub.master/>
-            @endif
-
-            @if(\Aaran\Assets\Features\Customise::hasEntries())
-                <x-aaran-ui::menu.app.sub.entries/>
-            @endif
-
-            @if(\Aaran\Assets\Features\Customise::hasCore())
-                <x-aaran-ui::menu.app.sub.core/>
-            @endif
-
-            @if(\Aaran\Assets\Features\Customise::hasBooks())
-                <x-aaran-ui::menu.app.sub.books/>
-            @endif
-
             @if(\Aaran\Assets\Features\Customise::hasBlog())
                 <x-aaran-ui::menu.app.sub.blog/>
             @endif
-
-
-
-            {{--            @if(Aaran\Aadmin\Src\Customise::hasReport())--}}
-            {{--                <x-menu.sub.reports/>--}}
-            {{--            @endif--}}
-
-            {{--            @if(Aaran\Aadmin\Src\Customise::hasDemoData())--}}
-            {{--                <x-menu.sub.demodata/>--}}
-            {{--            @endif--}}
-
-            {{--            @if(Aaran\Aadmin\Src\Customise::hasTaskManager())--}}
-            {{--                <x-menu.sub.task/>--}}
-            {{--            @endif--}}
-
-            {{--            @if(Aaran\Aadmin\Src\Customise::hasLogbook())--}}
-            {{--                <x-menu.sub.logbook/>--}}
-            {{--            @endif--}}
-
-
 
             <x-aaran-ui::menu.app.sub.logout/>
 
