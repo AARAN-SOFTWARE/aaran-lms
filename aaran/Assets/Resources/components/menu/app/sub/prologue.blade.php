@@ -12,7 +12,7 @@
 
                             <span
                                 class="flex font-semibold text-sm tracking-wide truncate my-4 font-sans uppercase">
-                                Blog
+                                Prologue
                             </span>
 
                         </span>
