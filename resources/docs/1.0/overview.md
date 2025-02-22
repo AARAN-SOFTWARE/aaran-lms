@@ -16,3 +16,4 @@ to help you understand and implement these powerful tools. Whether you're a begi
 developer, the Aaran LMS is designed to support your learning journey.
 
 ---
+<larecipe-badge href="/docs/1.0/installation" type="success" rounded>Continue</larecipe-badge>
