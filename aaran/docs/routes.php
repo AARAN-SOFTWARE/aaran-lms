@@ -2,9 +2,10 @@
 
 use Illuminate\Support\Facades\Route;
 
-//Master
+//Docs
 Route::middleware(['auth:sanctum', 'verified'])->group(function () {
 
-//    Route::get('/docs', Aaran\Web\Livewire\Dashboard\Index::class)->name('docs');
+    Route::get('/release', Aaran\Web\Livewire\Dashboard\Index::class)->name('docs');
+//    Route::get('/contribution', Aaran\Web\Livewire\Dashboard\Index::class)->name('docs');
 
 });

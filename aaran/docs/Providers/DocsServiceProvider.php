@@ -23,6 +23,9 @@ class DocsServiceProvider extends ServiceProvider
         $this->loadMigrations();
 
         Livewire::component('docs::index', Dashboard\Index::class);
+
+        Livewire::component('docs::prologue.release-notes', Prologue\ReleaseNotes::class);
+        Livewire::component('docs::index', Dashboard\Index::class);
     }
 
     protected function loadConfigs(): void
