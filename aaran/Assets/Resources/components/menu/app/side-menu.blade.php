@@ -28,6 +28,15 @@
             x-data="{selected:null}">
 
 
+            <x-aaran-ui::menu.app.sub.prologue/>
+
+            <x-aaran-ui::menu.app.sub.installation/>
+
+            <x-aaran-ui::menu.app.sub.architecture/>
+
+            <x-aaran-ui::menu.app.sub.basics/>
+
+
             @if(\Aaran\Assets\Features\Customise::hasBlog())
                 <x-aaran-ui::menu.app.sub.blog/>
             @endif
