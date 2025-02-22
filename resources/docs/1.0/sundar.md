@@ -4,11 +4,11 @@ Laravel is a PHP framework designed for building web applications. It follows th
 
 When a user requests a URL, Laravel’s router (routes/web.php for web routes) determines which controller or action should handle the request.
 	•	Example route:
-
+~~~
 Route::get('/welcome', function () {
     return view('welcome');
 });
-
+~~~
 
 
 2. Controllers (Handling Requests)
